@@ -87,8 +87,8 @@ The table is complement of the survey below.
 |2017|**IRGAN: A Minimax Game for Unifying Generative and Discriminative Information Retrieval Models**| Collaborative | SIGIR | [Link](https://doi.org/10.1145/3077136.3080786)| [Code](https://github.com/hzhao/irgan)|
 
 ## Authors
+For questions, please feel free to reach us at: 
+* Yashar Deldjoo <deldjooy@acm.org> , <yashar.deldjoo@poliba.it>
+* Markus Schedl <markus.schedl@jku.at>
+* Paolo Cremonesi <paolo.cremonesi@polimi.it>
 
-This page is managed and maintained by:
-* Felice Antonio Merra <felice.merra@poliba.it>
-* Yashar Deldjoo <yashar.deldjoo@poliba.it>
-* Tommaso Di Noia <tommaso.dinoia@poliba.it>
