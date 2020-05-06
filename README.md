@@ -21,12 +21,23 @@ The table is complement of the survey below.
 ### Video
 | Year        | Title           |   Target. Item | Venue    | Link        |  Code |
 |-------|--------|--------|-----------|---------------|-------|
-|2012|**On video recommendation over social network.**| UG-Video |MMM | [Link](https://doi.org/10.1007/978-3-642-27355-1_16)||
-|2012|**Personalized video recommendation based on viewing history with the study on youtube**| UG-Video |ICIMCS | [Link](https://doi.org/10.1145/2382336.2382382)||
-|2014|**What videos are similar with you?: Learning a common attributed representation for video recommendation**| UG-Video | ACM MM | [Link](https://doi.org/10.1145/2647868.2654946)||
-|2013|**Personalized video recommendation based on cross-platform user modeling.**| UG-Video | ICME | [Link](https://doi.org/10.1109/ICME.2013.6607513)||
+
+|2019|**Movie Genome: Alleviating New Item Cold Start in Movie Recommendation**| UG-Video | MTAP | [Link](https://doi.org/10.1007/s11257-019-09221-y)|[Code](https://github.com/MaurizioFD/RecSys2019_DeepLearning_Evaluation)|
+
 |2018|**LGA: latent genre aware micro-video recommendation on social media**| UG-Video | MTAP | [Link](https://doi.org/10.1007/s11042-017-4827-2)|[Code](https://github.com/kang205/DVBPR)|
 |2015|**Mining Affective Context in Short Films for Emotion-Aware Recommendation**| UG-Video | HT | [Link](https://doi.org/10.1145/2700171.2791042)| [Code](https://github.com/hzhao/irgan)|
+|2014|**What videos are similar with you?: Learning a common attributed representation for video recommendation**| UG-Video | ACM MM | [Link](https://doi.org/10.1145/2647868.2654946)||
+|2013|**Personalized video recommendation based on cross-platform user modeling.**| UG-Video | ICME | [Link](https://doi.org/10.1109/ICME.2013.6607513)||
+|2012|**On video recommendation over social network.**| UG-Video |MMM | [Link](https://doi.org/10.1007/978-3-642-27355-1_16)||
+|2012|**Personalized video recommendation based on viewing history with the study on youtube**| UG-Video |ICIMCS | [Link](https://doi.org/10.1145/2382336.2382382)||
+|2011|**Personalized video recommendation based on viewing history with the study on youtube**| UG-Video |ACM TOIS | [Link](
+https://doi.org/10.1145/1961209.1961213)||
+|2007|**Online video recommendation based on multimodal fusion and relevance feedback**| UG-Video |CIVR | [Link](
+https://doi.org/10.1145/1282280.1282290)||
+
+
+
+
 
 ## Contact
 For questions, please feel free to contact us at <deldjooy@acm.org>.
