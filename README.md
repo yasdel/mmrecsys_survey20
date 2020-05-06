@@ -18,7 +18,7 @@ The table is complement of the survey below.
 
 ## Papers
 
-### Audio
+### Video
 | Year        | Title           |   Rec. Model | Venue    | Link        |  Code |
 |-------|--------|--------|-----------|---------------|-------|
 |2012|**Personalized video recommendation based on viewing history with the study on youtube**| UG-Video |ICIMCS | [Link](https://doi.org/10.1145/2382336.2382382)||
