@@ -28,10 +28,8 @@ The table is complement of the survey below.
 |2013|**Personalized video recommendation based on cross-platform user modeling.**| UG-Video | ICME | [Link](https://doi.org/10.1109/ICME.2013.6607513)||
 |2012|**On video recommendation over social network.**| UG-Video |MMM | [Link](https://doi.org/10.1007/978-3-642-27355-1_16)||
 |2012|**Personalized video recommendation based on viewing history with the study on youtube**| UG-Video |ICIMCS | [Link](https://doi.org/10.1145/2382336.2382382)||
-|2011|**Personalized video recommendation based on viewing history with the study on youtube**| UG-Video |ACM TOIS | [Link](
-https://doi.org/10.1145/1961209.1961213)||
-|2007|**Online video recommendation based on multimodal fusion and relevance feedback**| UG-Video |CIVR | [Link](
-https://doi.org/10.1145/1282280.1282290)||
+|2011|**Contextual video recommendation by multimodal relevance and user feedback**| UG-Video |ACM TOIS | [Link](https://doi.org/10.1145/1961209.1961213)||
+|2007|**Online video recommendation based on multimodal fusion and relevance feedback**| UG-Video |CIVR | [Link](https://dl.acm.org/doi/10.1145/1282280.1282290)||
 
 
 
