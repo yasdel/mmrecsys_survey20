@@ -21,6 +21,7 @@ The table is complement of the survey below.
 ### Video
 | Year        | Title           |   Target. Item | Venue    | Link        |  Code |
 |-------|--------|--------|-----------|---------------|-------|
+|2012|**On video recommendation over social network.**| UG-Video |MMM | [Link](https://doi.org/10.1007/978-3-642-27355-1_16)||
 |2012|**Personalized video recommendation based on viewing history with the study on youtube**| UG-Video |ICIMCS | [Link](https://doi.org/10.1145/2382336.2382382)||
 |2014|**What videos are similar with you?: Learning a common attributed representation for video recommendation**| UG-Video | ACM MM | [Link](https://doi.org/10.1145/2647868.2654946)||
 |2013|**Personalized video recommendation based on cross-platform user modeling.**| UG-Video | ICME | [Link](https://doi.org/10.1109/ICME.2013.6607513)||
