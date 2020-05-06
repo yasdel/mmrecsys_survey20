@@ -21,9 +21,7 @@ The table is complement of the survey below.
 ### Video
 | Year        | Title           |   Target. Item | Venue    | Link        |  Code |
 |-------|--------|--------|-----------|---------------|-------|
-
 |2019|**Movie Genome: Alleviating New Item Cold Start in Movie Recommendation**| UG-Video | MTAP | [Link](https://doi.org/10.1007/s11257-019-09221-y)|[Code](https://github.com/MaurizioFD/RecSys2019_DeepLearning_Evaluation)|
-
 |2018|**LGA: latent genre aware micro-video recommendation on social media**| UG-Video | MTAP | [Link](https://doi.org/10.1007/s11042-017-4827-2)|[Code](https://github.com/kang205/DVBPR)|
 |2015|**Mining Affective Context in Short Films for Emotion-Aware Recommendation**| UG-Video | HT | [Link](https://doi.org/10.1145/2700171.2791042)| [Code](https://github.com/hzhao/irgan)|
 |2014|**What videos are similar with you?: Learning a common attributed representation for video recommendation**| UG-Video | ACM MM | [Link](https://doi.org/10.1145/2647868.2654946)||
