@@ -19,7 +19,7 @@ The table is complement of the survey below.
 ## Papers
 
 ### Video
-| Year        | Title           |   Rec. Model | Venue    | Link        |  Code |
+| Year        | Title           |   Target. Item | Venue    | Link        |  Code |
 |-------|--------|--------|-----------|---------------|-------|
 |2012|**Personalized video recommendation based on viewing history with the study on youtube**| UG-Video |ICIMCS | [Link](https://doi.org/10.1145/2382336.2382382)||
 |2014|**What videos are similar with you?: Learning a common attributed representation for video recommendation**| UG-Video | ACM MM | [Link](https://doi.org/10.1145/2647868.2654946)||
