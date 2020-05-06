@@ -19,7 +19,7 @@ The table is complement of the survey below.
 ## Papers
 
 ### Video
-| Year        | Title           |   Target. Item | Venue    | Link        |Code | Data|
+| Year  | Title         |Target Item | Venue    | Link        |Code | Data|
 |------|-------|---------|-----------|---------------|-------|-------|
 |2018|**Affective recommendation of movies based on selected connotative features.**|Movie trailer | RecSys | [Link](https://doi.org/10.1109/TCSVT.2012.2211935)|[Code]()|[]()|
 |2018|**Audio-visual encoding of multimedia content for enhancing movie recommendations.**|Movie trailer | RecSys | [Link](https://doi.org/10.1145/3240323.3240407)|[Code]()|[MMTF-14K](https://mmprj.github.io/mtrm_dataset/index)|
