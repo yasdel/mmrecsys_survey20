@@ -21,8 +21,9 @@ The table is complement of the survey below.
 ### target: product (leveraging visual content of the associated images) 
 | Year  | Title       |Target Item  | Venue    | Link        |Code | Data|
 |------|-------|----------|-----------|---------------|-------|-------|
-|2011|**Image annotation based on recommendation model.**|SIGIR|tag|[Link](https://doi.org/10.1109/TMM.2014.2302732)||[1. GT database of UW](http://imagedatabase.cs.washington.edu/groundtruth/) <br> [2. MIRFlicker](http://press.liacs.nl/mirflickr/)||
+|2015|**Harvesting Multiple Sources for User Profile Learning: aBig Data Study.**|ICMR|tag|[Link](https://dl.acm.org/doi/pdf/10.1145/2671188.2749381)||[FourSqaure-Twitter-Instagram-Facebook](developer.foursquare.com)||
 |2014|**Personalized geo-specific tag recommendation for photos on social websites.**|tag| Tr. MM | [Link](https://doi.org/10.1109/TMM.2014.2302732)||[Flicker API](https://www.flickr.com/services/api/)||
+|2011|**Image annotation based on recommendation model.**|SIGIR|tag|[Link](https://doi.org/10.1109/TMM.2014.2302732)||[1. GT database of UW](http://imagedatabase.cs.washington.edu/groundtruth/) <br> [2. MIRFlicker](http://press.liacs.nl/mirflickr/)||
 ### Video recommendation
 ### target: movie-related content
 | Year  | Title       |Target Item  | Venue    | Link        |Code | Data|
