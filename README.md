@@ -21,9 +21,8 @@ The table is complement of the survey below.
 ### target: product (leveraging visual content of the associated images) 
 | Year  | Title       |Target Item  | Venue    | Link        |Code | Data|
 |------|-------|----------|-----------|---------------|-------|-------|
+|2014|**Image annotation based on recommendation model.**| Movie trailer | Tr. MM | [Link](https://doi.org/10.1109/TMM.2014.2302732)||[GT database of UW](http://imagedatabase.cs.washington.edu/groundtruth/)||
 |2014|**Personalized geo-specific tag recommendation for photos on social websites.**| Movie trailer | Tr. MM | [Link](https://doi.org/10.1109/TMM.2014.2302732)||[Flicker API](https://www.flickr.com/services/api/)||
-
-
 ### Video recommendation
 ### target: movie-related content
 | Year  | Title       |Target Item  | Venue    | Link        |Code | Data|
