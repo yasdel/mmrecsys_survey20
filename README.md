@@ -25,8 +25,8 @@ The table is complement of the survey below.
 |2016|**Latent factor representations for cold-start video recommendation.**|Movie trailer | RecSys | [Link](https://doi.org/10.1145/2959100.2959172)|[Code]()|[]()|
 |2013|**Affective recommendation of movies based on selected connotative features.**|Movie trailer | RecSys | [Link](https://doi.org/10.1109/TCSVT.2012.2211935)|[Code]()|[]()|
 |2018|**LGA: latent genre aware micro-video recommendation on social media**| UG-Video | MTAP | [Link](https://doi.org/10.1007/s11042-017-4827-2)||[Twitter Streaming API](https://dev.twitter.com/streaming/overview)||
-|2015|**Mining Affective Context in Short Films for Emotion-Aware Recommendation**| UG-Video | HT | [Link](https://doi.org/10.1145/2700171.2791042)|||
-|2014|**What videos are similar with you?: Learning a common attributed representation for video recommendation**| UG-Video | ACM MM | [Link](https://doi.org/10.1145/2647868.2654946)||(Tencent Weibo)[http://t.qq.com/]||
+|2015|**Mining Affective Context in Short Films for Emotion-Aware Recommendation**| UG-Video | HT | [Link](https://doi.org/10.1145/2700171.2791042)||Av. upon Req.||
+|2014|**What videos are similar with you?: Learning a common attributed representation for video recommendation**| UG-Video | ACM MM | [Link](https://doi.org/10.1145/2647868.2654946)||[Tencent Weibo](http://t.qq.com/)||
 |2013|**Personalized video recommendation based on cross-platform user modeling.**| UG-Video | ICME | [Link](https://doi.org/10.1109/ICME.2013.6607513)||[Google+/YouTube](https://www.youtube.com)||
 |2012|**On video recommendation over social network.**| UG-Video |MMM | [Link](https://doi.org/10.1007/978-3-642-27355-1_16)||[Facebook](www.facebook.com)||
 |2012|**Personalized video recommendation based on viewing history with the study on youtube**| UG-Video |ICIMCS | [Link](https://doi.org/10.1145/2382336.2382382)| |[YouTube](https://www.youtube.com)||
