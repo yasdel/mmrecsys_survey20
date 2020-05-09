@@ -21,8 +21,7 @@ The table is complement of the survey below.
 ### target: product (leveraging visual content of the associated images) 
 | Year  | Title       |Target Item  | Venue    | Link        |Code | Data|
 |------|-------|----------|-----------|---------------|-------|-------|
-
-|2014|**Personalized geo-specific tag recommendation for photos on social websites.**| Movie trailer | MTAP | [Link](https://doi.org/10.1109/TMM.2014.2302732)|[Code](https://github.com/MaurizioFD/RecSys2019_DeepLearning_Evaluation)|[Flicker API](https://www.flickr.com/services/api/)||
+|2014|**Personalized geo-specific tag recommendation for photos on social websites.**| Movie trailer | Tr. MM | [Link](https://doi.org/10.1109/TMM.2014.2302732)||[Flicker API](https://www.flickr.com/services/api/)||
 
 
 ### Video recommendation
