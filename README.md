@@ -22,7 +22,7 @@ The table is complement of the survey below.
 |------|-------|----------|-----------|---------------|-------|-------|
 |2019|**Movie Genome: Alleviating New Item Cold Start in Movie Recommendation**| Movie trailer | MTAP | [Link](https://doi.org/10.1007/s11257-019-09221-y)|[Code](https://github.com/MaurizioFD/RecSys2019_DeepLearning_Evaluation)|
 |2018|**Audio-visual encoding of multimedia content for enhancing movie recommendations.**|Movie trailer | RecSys | [Link](https://doi.org/10.1145/3240323.3240407)|[Code]()|[MMTF-14K](https://mmprj.github.io/mtrm_dataset/index)|
-|2016|**Latent factor representations for cold-start video recommendation.**|Movie trailer | RecSys | [Link](https://doi.org/10.1145/2959100.2959172)|[Code]()|[]()|
+|2016|**Latent factor representations for cold-start video recommendation.**|Movie trailer | RecSys | [Link](https://doi.org/10.1145/2959100.2959172)||[DS1: Video Emotion DS, DS2: Amazon Product](https://nijianmo.github.io/amazon/index.html)|
 |2013|**Affective recommendation of movies based on selected connotative features.**|Movie trailer | RecSys | [Link](https://doi.org/10.1109/TCSVT.2012.2211935)||[Gratest film scenes](https://www.filmsite.org/scenes.html)|
 |2018|**LGA: latent genre aware micro-video recommendation on social media**| UG-Video | MTAP | [Link](https://doi.org/10.1007/s11042-017-4827-2)||[Twitter Streaming API](https://dev.twitter.com/streaming/overview)||
 |2015|**Mining Affective Context in Short Films for Emotion-Aware Recommendation**| UG-Video | HT | [Link](https://doi.org/10.1145/2700171.2791042)||Av. upon Req.||
