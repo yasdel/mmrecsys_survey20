@@ -18,7 +18,7 @@ The table is complement of the survey below.
 ## Papers
 
 ### Target of Recommendation: Video
-### User-generated video
+### Movie-related content
 | Year  | Title       |Target Item  | Venue    | Link        |Code | Data|
 |------|-------|----------|-----------|---------------|-------|-------|
 |2019|**Movie Genome: Alleviating New Item Cold Start in Movie Recommendation**| Movie trailer | MTAP | [Link](https://doi.org/10.1007/s11257-019-09221-y)|[Code](https://github.com/MaurizioFD/RecSys2019_DeepLearning_Evaluation)|[MMTF-14K](https://mmprj.github.io/mtrm_dataset/index)||
@@ -31,7 +31,7 @@ The table is complement of the survey below.
 |2013|**Affective recommendation of movies based on selected connotative features.**|Movie Scenes| RecSys | [Link](https://doi.org/10.1109/TCSVT.2012.2211935)||[Gratest film scenes](https://www.filmsite.org/scenes.html)|
 |2013|**VideoTopic: Content-Based Video Recommendation Using a Topic Model**| Movie trailer | MTAP | [Link](https://doi.org/10.1109/ISM.2013.41)||IMDB + [YouTube](http://www.youtube.com)||
 
-### Movie-related content
+### User-generated video
 | Year  | Title       |Target Item  | Venue    | Link        |Code | Data|
 |------|-------|----------|-----------|---------------|-------|-------|
 |2018|**LGA: latent genre aware micro-video recommendation on social media**| UG-Video | MTAP | [Link](https://doi.org/10.1007/s11042-017-4827-2)||[Twitter Streaming API](https://dev.twitter.com/streaming/overview)||
