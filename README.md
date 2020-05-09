@@ -19,6 +19,8 @@ The table is complement of the survey below.
 
 ### Taget of Recommendation: Video
 ### User-generated video
+| Year  | Title       |Target Item  | Venue    | Link        |Code | Data|
+|------|-------|----------|-----------|---------------|-------|-------|
 |2019|**Movie Genome: Alleviating New Item Cold Start in Movie Recommendation**| Movie trailer | MTAP | [Link](https://doi.org/10.1007/s11257-019-09221-y)|[Code](https://github.com/MaurizioFD/RecSys2019_DeepLearning_Evaluation)|[MMTF-14K](https://mmprj.github.io/mtrm_dataset/index)||
 |2018|**Audio-visual encoding of multimedia content for enhancing movie recommendations.**|Movie trailer | RecSys | [Link](https://doi.org/10.1145/3240323.3240407)||[MMTF-14K](https://mmprj.github.io/mtrm_dataset/index)||
 |2016|**Latent factor representations for cold-start video recommendation.**|Movie trailer | RecSys | [Link](https://doi.org/10.1145/2959100.2959172)||1:Video Emotion DS (Av. upon Req.)<br> [2: Amazon Product](https://nijianmo.github.io/amazon/index.html)|
