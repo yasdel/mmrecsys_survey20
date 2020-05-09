@@ -17,7 +17,7 @@ The table is complement of the survey below.
 
 ## Papers
 
-### Taget of Recommendation: Video
+### Target of Recommendation: Video
 ### User-generated video
 | Year  | Title       |Target Item  | Venue    | Link        |Code | Data|
 |------|-------|----------|-----------|---------------|-------|-------|
