@@ -21,7 +21,7 @@ The table is complement of the survey below.
 ### User-generated video
 | Year  | Title       |Target Item  | Venue    | Link        |Code | Data|
 |------|-------|----------|-----------|---------------|-------|-------|
-|2018|**Content-based video recommendation system based on stylistic visual features.**| Movie trailer | JoDS| [Link](https://doi.org/10.1007/s13740-016-0060-9)| | ||
+|2016|**Content-based video recommendation system based on stylistic visual features.**| Movie trailer | JoDS| [Link](https://doi.org/10.1007/s13740-016-0060-9)| | ||
 |2018|**Using visual features and latent factors for movie recommendation.**| Movie trailer | CBRecSys@RecSys| [Link](https://doi.org/10.1007/s13735-018-0155-1)| | ||
 |2018|**Using Visual Features based on MPEG-7 and Deep Learning for Movie Recommendation**| Movie trailer | IJMIR| [Link](https://doi.org/10.1007/s13735-018-0155-1)||[Mise-en-Scène DS: MPEG-7 + CNN](https://www.researchgate.net/publication/317038064_Mise-en-Scene_Dataset_MPEG-7_Visual_Features_of_Movie_Trailers_dataset)||
 |2013|**VideoTopic: Content-Based Video Recommendation Using a Topic Model**| Movie trailer | MTAP | [Link](https://doi.org/10.1109/ISM.2013.41)||IMDB + [YouTube](http://www.youtube.com)||
