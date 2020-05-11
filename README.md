@@ -33,6 +33,12 @@ The table is complement of the survey below.
 |2010|**Music recommendation by unified hypergraph: combining social media information and music content.**|ACM MM|Music|[Link](https://dl.acm.org/doi/10.1145/1873951.1874005)||[DS_name](TBA)||
 |2013|**Deep Content-based Music Recommendation.**|NIPS|Music|[Link](https://papers.nips.cc/paper/5004-deep-content-based-music-recommendation)||[DS_name](TBA)||
 |2014|**ADVISOR: Personalized Video Soundtrack Recommendation by LateFusion with Heuristic Rankings.**|ACM MM|Music|[Link](https://dl.acm.org/doi/10.1145/2647868.2654919)||[DS_name](TBA)||
+|2013|**Location-aware music recommendation using auto-taggingand hybrid matching.**|RecSys|Music|[Link](https://doi.org/10.1145/2507157.2507180)||[DS_name](TBA)||
+|2015|**Content-Aware Collaborative Music Recommendation UsingPre-trained Neural Networks.**|ISMIR|Music|[Link](https://doi.org/10.1145/2507157.2507180)||[DS_name](TBA)||
+|2014|**Improving Content-based and Hybrid Music Recommendation Using Deep Learning.**|ACM MM|Music|[Link](https://doi.org/10.1145/2647868.2654940)||[DS_name](TBA)||
+|2017|**A Deep Multimodal Approach for Cold-start Music Recommendation..**|DLRS|Music|[Link](https://doi.org/10.1145/2507157.2507180)||[DS_name](TBA)||
+|2011|**The Natural Language of Playlists.**|ISMIR|Music|[Link](https://ismir2011.ismir.net/papers/PS4-11.pdf)||[DS_name](TBA)||
+|2019|**Feature-Combination Hybrid Recommender Systems for Automated Music Playlist Continuation.**|UMUAI|Music|[Link](https://link.springer.com/article/10.1007/s11257-018-9215-8)||[DS_name](TBA)||
 
 ### Image-based Recommendation
 ### target: product (leveraging visual content of the associated images) 
