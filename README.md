@@ -16,6 +16,23 @@ The table is complement of the survey below.
 ```
 
 ## Papers
+### Audio
+
+### Sounds
+| Year  | Title       |Target Item  | Venue    | Link        |Code | Data|
+|------|-------|----------|-----------|---------------|-------|-------|
+|2015|**A Semantic HybridApproach for Sound Recommendation.**|WWW|SoundTrack|[Link](https://dl.acm.org/doi/10.1145/2740908.2742775)||[DS_name](TBA)||
+|2016|**Sound and MusicRecommendation with Knowledge Graphs.**|TIST|SoundTrack|[Link](https://dl.acm.org/doi/10.1145/2926718)||[DS_name](TBA)||
+|2019|**Towards a Hybrid RecommendationSystem for a Sound Library.**|IUI|SoundTrack|[Link](http://ceur-ws.org/Vol-2327/IUI19WS-MILC-5.pdf)||[DS_name](TBA)||
+
+### Music
+|2008|**An Efficient HybridMusic Recommender System Using an Incrementally Trainable Probabilistic Generative Model.**|ACM Tr.ATLP|Music|[Link](https://ieeexplore.ieee.org/document/4432655)||[DS_name](TBA)||
+|2009|**Music recommendation based on acoustic features and user access patterns.**|ACM Tr.ATLP|Music|[Link](https://ieeexplore.ieee.org/document/5230332)||[DS_name](TBA)||
+|2010|**Music recommendation by unified hypergraph: combining social media information and music content.**|ACM MM|Music|[Link](https://dl.acm.org/doi/10.1145/1873951.1874005)||[DS_name](TBA)||
+|2010|**Music recommendation by unified hypergraph: combining social media information and music content.**|ACM MM|Music|[Link](https://dl.acm.org/doi/10.1145/1873951.1874005)||[DS_name](TBA)||
+|2013|**Deep Content-based Music Recommendation.**|NIPS|Music|[Link](https://papers.nips.cc/paper/5004-deep-content-based-music-recommendation)||[DS_name](TBA)||
+|2014|**ADVISOR: Personalized Video Soundtrack Recommendation by LateFusion with Heuristic Rankings.**|ACM MM|Music|[Link](https://dl.acm.org/doi/10.1145/2647868.2654919)||[DS_name](TBA)||
+
 ### Image-based Recommendation
 ### target: product (leveraging visual content of the associated images) 
 | Year  | Title       |Target Item  | Venue    | Link        |Code | Data|
