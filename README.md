@@ -23,12 +23,11 @@ The table is complement of the survey below.
 |------|-------|----------|-----------|---------------|-------|-------|
 |2015|**Image-based recommendations on styles and substitutes.**|SIGIR|Fashion|[Link]()||(Instagram) <br> [ImageNet](http://www.image-net.org/)||
 |2016|**Modeling the visual evolution of fashion trends with one-class collaborative filtering.**|WWW|Fashion|[Link]()||(Instagram) <br> [ImageNet](http://www.image-net.org/)||
-|2016|**Ups and downs: Modeling the visual evolution of fashion trends with one-class
-collaborative filtering.**|WWW|Fashion|[Link]()||(Instagram) <br> [ImageNet](http://www.image-net.org/)||
+|2016|**Ups and downs: Modeling the visual evolution of fashion trends with one-class collaborative filtering.**|WWW|Fashion|[Link]()||(Instagram) <br> [ImageNet](http://www.image-net.org/)||
 |2018|**Aesthetic-based clothing recommendation.**|WWW|Fashion|[Link]()||(Instagram) <br> [ImageNet](http://www.image-net.org/)||
 |2018|**Personalized clothing recommendation combining user social circle and fashion style consistency.**|MTAP|Fashion|[Link]()||(Instagram) <br> [ImageNet](http://www.image-net.org/)||
 |2016|**UbiShop: Commercial item recommendation using visual part-based object representation.**|MTAP|Fashion|[Link]()||(Instagram) <br> [ImageNet](http://www.image-net.org/)||
-|2016|**.iGlasses: A Novel Recommendation System for Best-fit Glasses.**|SIGIR|Fashion|[Link]()||(Instagram) <br> [ImageNet](http://www.image-net.org/)||
+|2016|**iGlasses: A Novel Recommendation System for Best-fit Glasses.**|SIGIR|Fashion|[Link]()||(Instagram) <br> [ImageNet](http://www.image-net.org/)||
 |2014|**Effect of facial makeup style recommendation on visual sensibility.**|MTAP|Fashion|[Link]()||(Instagram) <br> [ImageNet](http://www.image-net.org/)||
 |2017|**Rule-based facial makeup recommendation system.**|FC 2017|Fashion|[Link](https://doi.org/10.1109/FG.2017.47)||(Instagram) <br> [ImageNet](http://www.image-net.org/)||
 |2017|**Examples-Rules Guided Deep Neural Network for Makeup Recommendation.**|AAAI|Fashion|[Link](https://dl.acm.org/doi/abs/10.5555/3298239.3298377)||(Instagram) <br> [ImageNet](http://www.image-net.org/)||
