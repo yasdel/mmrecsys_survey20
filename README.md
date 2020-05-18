@@ -19,7 +19,7 @@ The table is complement of the survey below.
 ### Audio
 
 ### Sounds
-| Year  | Authors | Title       |Target Item  | Venue    | Link        |Code |Data|
+| Year  | Authors | Title       |Target Item  | Venue    | Paper        |Code |Data|
 |------|-------|-------|------|-----------|---------------|-------|-------|
 |2015| Oramas et al.|**A Semantic Hybrid Approach for Sound Recommendation.**|WWW|SoundTrack|[Link](https://dl.acm.org/doi/10.1145/2740908.2742775)|--|[DBpedia](http://dbpedia.org/)<br>[WordNet](https://wordnet.princeton.edu/)<br>[FreeSound](http://linkeddata.org/)||
 |2016| Ostuni et al. | **Sound and Music Recommendation with Knowledge Graphs.**|TIST|SoundTrack|[Link](https://dl.acm.org/doi/10.1145/2926718)|--|[Songfacts](http://songfacts.com/)<br>[Last.fm](http://last.fm/)<br>[FreeSound](http://linkeddata.org/)||
