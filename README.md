@@ -29,7 +29,7 @@ The table is complement of the survey below.
 ### Music
 | Year  | Title       |Target Item  | Venue    | Link        |Code | Data|
 |------|-------|----------|-----------|---------------|-------|-------|
-|2008|**An Efficient HybridMusic Recommender System Using an Incrementally Trainable Probabilistic Generative Model.**|ACM Tr.ATLP|Music|[Link](https://ieeexplore.ieee.org/document/4432655)||[DS_name](TBA)||
+|2008|**An Efficient HybridMusic Recommender System Using an Incrementally Trainable Probabilistic Generative Model.**|ACM Tr.ATLP|![music_artist](https://user-images.githubusercontent.com/12104758/82208027-15f09600-990b-11ea-9a3c-dc3aec09e4cc.png)|[Link](https://ieeexplore.ieee.org/document/4432655)||[DS_name](TBA)||
 |2009|**Music recommendation based on acoustic features and user access patterns.**|ACM Tr.ATLP|Music|[Link](https://ieeexplore.ieee.org/document/5230332)||[DS_name](TBA)||
 |2010|**Music recommendation by unified hypergraph: combining social media information and music content.**|ACM MM|Music|[Link](https://dl.acm.org/doi/10.1145/1873951.1874005)||[DS_name](TBA)||
 |2013|**Deep Content-based Music Recommendation.**|NIPS|Music|[Link](https://papers.nips.cc/paper/5004-deep-content-based-music-recommendation)||[DS_name](TBA)||
