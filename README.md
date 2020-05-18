@@ -19,7 +19,7 @@ The table is complement of the survey below.
 ### Audio
 
 ### Sounds
-| Year  | Title       |Target Item  | Venue    | Link        |Code | Content/Interaction Data||
+| Year  | Title       |Target Item  | Venue    | Link        |Code | Content/Interaction Data|
 |------|-------|----------|-----------|---------------|-------|-------|
 |2015|**A Semantic Hybrid Approach for Sound Recommendation.**|WWW|SoundTrack|[Link](https://dl.acm.org/doi/10.1145/2740908.2742775)|-|[DBpedia](http://dbpedia.org/)<br>[WordNet](https://wordnet.princeton.edu/)<br>[FreeSound](http://linkeddata.org/)||
 
