@@ -43,22 +43,22 @@ The table is complement of the survey below.
 
 ### Image-based Recommendation
 ### target: product (leveraging visual content of the associated images) 
-| Year  | Title       |Target Item  | Venue    | Link        |Code | Data|
-|------|-------|----------|-----------|---------------|-------|-------|
-|2006|**A generative graphical model for collaborative filtering of visual content.**|ICDM|Image/Photo|[Link](https://link.springer.com/chapter/10.1007/11790853_32)||(Instagram) <br> [ImageNet](http://www.image-net.org/)||
-|2008|**A graphical model for context-aware visual content recommendation.**|IEEE Tr.MM|Image/Photo|[Link](https://ieeexplore.ieee.org/document/4407505)||(Instagram) <br> [ImageNet](http://www.image-net.org/)||
-|2014|**Learning to personalize trending image search suggestion.**|SIGIR|Image/Photo|[Link](https://doi.org/10.1145/2600428.2609569)||(Instagram) <br> [ImageNet](http://www.image-net.org/)||
-|2010|**Multiple feature fusion for social media applications.**|SIGMOD|Image/Photo|[Link](https://doi.org/10.1145/1807167.1807216)||(Instagram) <br> [ImageNet](http://www.image-net.org/)||
-|2018|**Neural Personalized Ranking for Image Recommendation.**|WSDM|Image/Photo|[Link](https://doi.org/10.1145/3159652.3159728)||(Instagram) <br> [ImageNet](http://www.image-net.org/)||
-|2015|**Learning Image and User Features for Recommendation in Social Networks.**|ICCV|Image/Photo|[Link](https://doi.org/10.1109/ICCV.2015.486)||(Instagram) <br> [ImageNet](http://www.image-net.org/)||
-|2010|**A multimedia recommender integrating object features and user behavior.**|MTAP|Painting|[Link](https://link.springer.com/article/10.1007/s11042-010-0480-8)||(Instagram) <br> [ImageNet](http://www.image-net.org/)||
-|2013|**A multimedia recommender system**|TOIT|Painting|[Link](https://dl.acm.org/doi/10.1145/2532640)||(Instagram) <br> [ImageNet](http://www.image-net.org/)||
-|2013|**Recommending multimedia objects in cultural heritage applications.**|ICIP|Painting|[Link](https://doi.org/10.1007/978-3-642-41190-8_28)||(Instagram) <br> [ImageNet](http://www.image-net.org/)||
-|2011|**The social camera: a case-study in contextual image recommendation.**|IUI|Misc.|[Link](https://doi.org/10.1145/1943403.1943408)||(Instagram) <br> [ImageNet](http://www.image-net.org/)||
-|2017|**ClickSmart: A Context-Aware Viewpoint Recommendation System for Mobile Photography.**|IEEE Tr. CSVT|Misc.|[Link](https://doi.org/10.1145/1943403.1943408)||(Instagram) <br> [ImageNet](http://www.image-net.org/)||
-|2016|**NowAndThen: a social network-based photo recommendation tool supporting reminiscence.**|MUM|Misc.|[Link](https://dl.acm.org/doi/10.1145/3012709.3012738)||(Instagram) <br> [ImageNet](http://www.image-net.org/)||
-|2018|**Visual Background Recommendation for Dance Performances Using Deep Matrix Factorization.**|TOMCCAP|Misc.|[Link](https://doi.org/10.1145/3152463)||(Instagram) <br> [ImageNet](http://www.image-net.org/)||
-|2017|**Towards Recommender Systems for Police Photo Lineup.**|DLRS*|Misc.|[Link](https://dl.acm.org/doi/10.1145/3125486.3125490)||(Instagram) <br> [ImageNet](http://www.image-net.org/)||
+| Year  | Authors | Title       |Target Item  | Venue    | Link      |Code | Data|
+|------|-------|-------|----------|-----------|---------------|-------|-------|
+|2006| |**A generative graphical model for collaborative filtering of visual content.**|ICDM|Image/Photo|[Link](https://link.springer.com/chapter/10.1007/11790853_32)||(Instagram) <br> [ImageNet](http://www.image-net.org/)||
+|2008| |**A graphical model for context-aware visual content recommendation.**|IEEE Tr.MM|Image/Photo|[Link](https://ieeexplore.ieee.org/document/4407505)||(Instagram) <br> [ImageNet](http://www.image-net.org/)||
+|2014| |**Learning to personalize trending image search suggestion.**|SIGIR|Image/Photo|[Link](https://doi.org/10.1145/2600428.2609569)||(Instagram) <br> [ImageNet](http://www.image-net.org/)||
+|2010| |**Multiple feature fusion for social media applications.**|SIGMOD|Image/Photo|[Link](https://doi.org/10.1145/1807167.1807216)||(Instagram) <br> [ImageNet](http://www.image-net.org/)||
+|2018| |**Neural Personalized Ranking for Image Recommendation.**|WSDM|Image/Photo|[Link](https://doi.org/10.1145/3159652.3159728)||(Instagram) <br> [ImageNet](http://www.image-net.org/)||
+|2015| |**Learning Image and User Features for Recommendation in Social Networks.**|ICCV|Image/Photo|[Link](https://doi.org/10.1109/ICCV.2015.486)||(Instagram) <br> [ImageNet](http://www.image-net.org/)||
+|2010| |**A multimedia recommender integrating object features and user behavior.**|MTAP|Painting|[Link](https://link.springer.com/article/10.1007/s11042-010-0480-8)||(Instagram) <br> [ImageNet](http://www.image-net.org/)||
+|2013|  |**A multimedia recommender system**|TOIT|Painting|[Link](https://dl.acm.org/doi/10.1145/2532640)||(Instagram) <br> [ImageNet](http://www.image-net.org/)||
+|2013| |**Recommending multimedia objects in cultural heritage applications.**|ICIP|Painting|[Link](https://doi.org/10.1007/978-3-642-41190-8_28)||(Instagram) <br> [ImageNet](http://www.image-net.org/)||
+|2011|  |**The social camera: a case-study in contextual image recommendation.**|IUI|Misc.|[Link](https://doi.org/10.1145/1943403.1943408)||(Instagram) <br> [ImageNet](http://www.image-net.org/)||
+|2017|  |**ClickSmart: A Context-Aware Viewpoint Recommendation System for Mobile Photography.**|IEEE Tr. CSVT|Misc.|[Link](https://doi.org/10.1145/1943403.1943408)||(Instagram) <br> [ImageNet](http://www.image-net.org/)||
+|2016|  |**NowAndThen: a social network-based photo recommendation tool supporting reminiscence.**|MUM|Misc.|[Link](https://dl.acm.org/doi/10.1145/3012709.3012738)||(Instagram) <br> [ImageNet](http://www.image-net.org/)||
+|2018|  |**Visual Background Recommendation for Dance Performances Using Deep Matrix Factorization.**|TOMCCAP|Misc.|[Link](https://doi.org/10.1145/3152463)||(Instagram) <br> [ImageNet](http://www.image-net.org/)||
+|2017|  |**Towards Recommender Systems for Police Photo Lineup.**|DLRS*|Misc.|[Link](https://dl.acm.org/doi/10.1145/3125486.3125490)||(Instagram) <br> [ImageNet](http://www.image-net.org/)||
 
 ### target: product (leveraging visual content of the associated images) 
 | Year  | Title       |Target Item  | Venue    | Link        |Code | Data|
