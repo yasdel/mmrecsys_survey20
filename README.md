@@ -43,7 +43,7 @@ The table is complement of the survey below.
 
 ### Image-based Recommendation
 ### target: product (leveraging visual content of the associated images) 
-| Year  | Authors | Title       |Target Item  | Venue    | Link      |Code | Data|
+| Year  | Authors | Title       |Venue | Target Item | Link      |Code | Data|
 |------|-------|-------|----------|-----------|---------------|-------|-------|
 |2006|Boutemedjet et al.|**A generative graphical model for collaborative filtering of visual content.**|ICDM||[Link](https://link.springer.com/chapter/10.1007/11790853_32)||[WashingtonUni. ImageDB](http://www.cs.washington.edu/research/imagedatabase/)||
 |2008| |**A graphical model for context-aware visual content recommendation.**|IEEE Tr.MM|Image/Photo|[Link](https://ieeexplore.ieee.org/document/4407505)||(Instagram) <br> [ImageNet](http://www.image-net.org/)||
