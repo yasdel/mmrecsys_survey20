@@ -23,7 +23,7 @@ The table is complement of the survey below.
 |------|-------|-------|------|-----------|---------------|-------|-------|
 |2015| Oramas et al.|**A Semantic Hybrid Approach for Sound Recommendation.**|WWW|![sound_track](https://user-images.githubusercontent.com/12104758/82208688-438a0f00-990c-11ea-8386-250e3d2a0269.png)|[Link](https://dl.acm.org/doi/10.1145/2740908.2742775)|--|[DBpedia](http://dbpedia.org/)<br>[WordNet](https://wordnet.princeton.edu/)<br>[FreeSound](http://linkeddata.org/)||
 |2016| Ostuni et al. | **Sound and Music Recommendation with Knowledge Graphs.**|TIST|![sound_track](https://user-images.githubusercontent.com/12104758/82208688-438a0f00-990c-11ea-8386-250e3d2a0269.png)|[Link](https://dl.acm.org/doi/10.1145/2926718)|--|[Songfacts](http://songfacts.com/)<br>[Last.fm](http://last.fm/)<br>[FreeSound](http://linkeddata.org/)||
-|2019| Smith et al. |**Towards a Hybrid RecommendationSystem for a Sound Library.**|IUI|![sound_track](https://user-images.githubusercontent.com/12104758/82208688-438a0f00-990c-11ea-8386-250e3d2a0269.png)|[Link](http://ceur-ws.org/Vol-2327/IUI19WS-MILC-5.pdf)||[DS_name](TBA)|||
+|2019| Smith et al. |**Towards a Hybrid RecommendationSystem for a Sound Library.**|IUI|![sound_track](https://user-images.githubusercontent.com/12104758/82208688-438a0f00-990c-11ea-8386-250e3d2a0269.png)|[Link](http://ceur-ws.org/Vol-2327/IUI19WS-MILC-5.pdf)||[Earsketch](TBA)|||
 
 
 ### Music
