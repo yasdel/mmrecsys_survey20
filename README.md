@@ -45,7 +45,7 @@ The table is complement of the survey below.
 ### target: product (leveraging visual content of the associated images) 
 | Year  | Authors | Title       |Venue | Target Item | Link      |Code | Data|
 |------|-------|-------|----------|-----------|---------------|-------|-------|
-|2006|Boutemedjet et al.|**A generative graphical model for collaborative filtering of visual content.**|ICDM|![interface(2)](https://user-images.githubusercontent.com/12104758/82257918-2c254300-9959-11ea-8902-3147f37b362b.png)|[Link](https://link.springer.com/chapter/10.1007/11790853_32)||[WashingtonUni. ImageDB](http://www.cs.washington.edu/research/imagedatabase/)||
+|2006|Boutemedjet et al.|**A generative graphical model for collaborative filtering of visual content.**|ICDM|![interface(1)](https://user-images.githubusercontent.com/12104758/82257995-4e1ec580-9959-11ea-97ce-1fe1968e4af6.png)|[Link](https://link.springer.com/chapter/10.1007/11790853_32)||[WashingtonUni. ImageDB](http://www.cs.washington.edu/research/imagedatabase/)||
 |2008| |**A graphical model for context-aware visual content recommendation.**|IEEE Tr.MM|Image/Photo|[Link](https://ieeexplore.ieee.org/document/4407505)||(Instagram) <br> [ImageNet](http://www.image-net.org/)||
 |2014| |**Learning to personalize trending image search suggestion.**|SIGIR|Image/Photo|[Link](https://doi.org/10.1145/2600428.2609569)||(Instagram) <br> [ImageNet](http://www.image-net.org/)||
 |2010| |**Multiple feature fusion for social media applications.**|SIGMOD|Image/Photo|[Link](https://doi.org/10.1145/1807167.1807216)||(Instagram) <br> [ImageNet](http://www.image-net.org/)||
