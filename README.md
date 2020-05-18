@@ -21,7 +21,7 @@ The table is complement of the survey below.
 ### Sounds
 | Year  | Title       |Target Item  | Venue    | Link        |Code | Content Data| Interaction Data|
 |------|-------|----------|-----------|---------------|-------|-------|-------|
-|2015|**A Semantic HybridApproach for Sound Recommendation.**|WWW|SoundTrack|[Link](https://dl.acm.org/doi/10.1145/2740908.2742775)||[DBpedia](http://dbpedia.org/)| ||
+|2015|**A Semantic HybridApproach for Sound Recommendation.**|WWW|SoundTrack|[Link](https://dl.acm.org/doi/10.1145/2740908.2742775)||[DBpedia](http://dbpedia.org/) \\ [WordNet] (https://wordnet.princeton.edu/)|[FreeSound](http://linkeddata.org/) ||
 |2016|**Sound and MusicRecommendation with Knowledge Graphs.**|TIST|SoundTrack|[Link](https://dl.acm.org/doi/10.1145/2926718)||[DS_name](TBA)|||
 |2019|**Towards a Hybrid RecommendationSystem for a Sound Library.**|IUI|SoundTrack|[Link](http://ceur-ws.org/Vol-2327/IUI19WS-MILC-5.pdf)||[DS_name](TBA)|||
 
