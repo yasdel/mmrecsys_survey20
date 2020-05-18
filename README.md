@@ -23,13 +23,13 @@ The table is complement of the survey below.
 |------|-------|-------|------|-----------|---------------|-------|-------|
 |2015| Oramas et al.|**A Semantic Hybrid Approach for Sound Recommendation.**|WWW|![sound_track](https://user-images.githubusercontent.com/12104758/82208688-438a0f00-990c-11ea-8386-250e3d2a0269.png)|[Link](https://dl.acm.org/doi/10.1145/2740908.2742775)|--|[DBpedia](http://dbpedia.org/)<br>[WordNet](https://wordnet.princeton.edu/)<br>[FreeSound](http://linkeddata.org/)||
 |2016| Ostuni et al. | **Sound and Music Recommendation with Knowledge Graphs.**|TIST|![sound_track](https://user-images.githubusercontent.com/12104758/82208688-438a0f00-990c-11ea-8386-250e3d2a0269.png)|[Link](https://dl.acm.org/doi/10.1145/2926718)|--|[Songfacts](http://songfacts.com/)<br>[Last.fm](http://last.fm/)<br>[FreeSound](http://linkeddata.org/)||
-|2019| Smith et al. |**Towards a Hybrid RecommendationSystem for a Sound Library.**|IUI|![sound_track](https://user-images.githubusercontent.com/12104758/82208688-438a0f00-990c-11ea-8386-250e3d2a0269.png)|[Link](http://ceur-ws.org/Vol-2327/IUI19WS-MILC-5.pdf)||[EarSketch](https://earsketch.gatech.edu/earsketch2/)|||
+|2019| Smith et al. |**Towards a Hybrid RecommendationSystem for a Sound Library.**|IUI|![sound_track](https://user-images.githubusercontent.com/12104758/82208688-438a0f00-990c-11ea-8386-250e3d2a0269.png)|[Link](http://ceur-ws.org/Vol-2327/IUI19WS-MILC-5.pdf)||[EarSketch](https://earsketch.gatech.edu/earsketch2/)|--||
 
 
 ### Music/Artist:
 | Year  | Authors | Title      |Venue |Target Item | Link        |Code | Data|
 |------|-------|-------|----------|-----------|---------------|-------|-------|
-|2008|Yoshii et al.|**An Efficient Hybrid Music Recommender System Using an Incrementally Trainable Probabilistic Generative Model.**|IEEE Tr. ASLP|![music_artist](https://user-images.githubusercontent.com/12104758/82208151-52bc8d00-990b-11ea-897d-d64879eba58b.png)|[Link](https://ieeexplore.ieee.org/document/4432655)||[DS_name](https://earsketch.gatech.edu/earsketch2/)||
+|2008|Yoshii et al.|**An Efficient Hybrid Music Recommender System Using an Incrementally Trainable Probabilistic Generative Model.**|IEEE Tr. ASLP|![music_artist](https://user-images.githubusercontent.com/12104758/82208151-52bc8d00-990b-11ea-897d-d64879eba58b.png)|[Link](https://ieeexplore.ieee.org/document/4432655)|--|[DS_name](https://earsketch.gatech.edu/earsketch2/)||
 |2009|     |**Music recommendation based on acoustic features and user access patterns.**|ACM Tr. ASLP|![music_artist](https://user-images.githubusercontent.com/12104758/82208151-52bc8d00-990b-11ea-897d-d64879eba58b.png)|[Link](https://ieeexplore.ieee.org/document/5230332)||[DS_name](TBA)||
 |2010|     |**Music recommendation by unified hypergraph: combining social media information and music content.**|ACM MM|Music|[Link](https://dl.acm.org/doi/10.1145/1873951.1874005)||[DS_name](TBA)||
 |2013|     |**Deep Content-based Music Recommendation.**|NIPS|Music|[Link](https://papers.nips.cc/paper/5004-deep-content-based-music-recommendation)||[DS_name](TBA)||
