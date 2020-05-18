@@ -26,7 +26,7 @@ The table is complement of the survey below.
 |2019| Smith et al. |**Towards a Hybrid RecommendationSystem for a Sound Library.**|IUI|![sound_track](https://user-images.githubusercontent.com/12104758/82208688-438a0f00-990c-11ea-8386-250e3d2a0269.png)|[Link](http://ceur-ws.org/Vol-2327/IUI19WS-MILC-5.pdf)||[EarSketch](https://earsketch.gatech.edu/earsketch2/)|||
 
 
-### Music
+### Music/Artist:
 | Year  | Authors | Title      |Venue |Target Item | Link        |Code | Data|
 |------|-------|-------|----------|-----------|---------------|-------|-------|
 |2008|Yoshii et al.|**An Efficient Hybrid Music Recommender System Using an Incrementally Trainable Probabilistic Generative Model.**|IEEE Tr. ASLP|![music_artist](https://user-images.githubusercontent.com/12104758/82208151-52bc8d00-990b-11ea-897d-d64879eba58b.png)|[Link](https://ieeexplore.ieee.org/document/4432655)||[DS_name](https://earsketch.gatech.edu/earsketch2/)||
