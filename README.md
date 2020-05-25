@@ -1,10 +1,8 @@
 # Recommender System Leveraging Multimedia Content
 
-A table of adversarial learning publications in recommender systems. This page will be ****periodically**** updated to include recent works. Please contact us if your work is not in the list.
+A table of publications on multimedia recommender systems, in particular recommender systems that leverage multimedia content. This page will be ****periodically**** updated to include the most recent works. Please contact us if your work is not in the list.
 
-The table is complement of the survey below.
-
-[***Multimedia Recommender Systems*** ]
+The table serves as overview and extension of the works discussed in the following survey. Please consider citing it if you think it is useful.
 
 ```
 @article{mmrecsys2020deldjoo,
