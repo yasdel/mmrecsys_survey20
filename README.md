@@ -103,7 +103,7 @@ The table serves as overview and extension of the works discussed in the followi
 |2011|Mei et al.|**[Contextual video recommendation by multimodal relevance and user feedback.](https://doi.org/10.1145/1961209.1961213)**|![elearning-1](https://user-images.githubusercontent.com/12104758/83068526-c461ad00-a068-11ea-8766-1e4ed5235f4f.png)|ACM TOIS |--|[MSN Video](https://www.msn.com/en-us/Video/?mkt=en-us&tab=soapbox/)||
 |2007|Yang et al.|**[Online video recommendation based on multimodal fusion and relevance feedback.](https://dl.acm.org/doi/10.1145/1282280.1282290)**|![elearning-1](https://user-images.githubusercontent.com/12104758/83068526-c461ad00-a068-11ea-8766-1e4ed5235f4f.png)|CIVR|--|[MSN Soapbox](http://soapbox.msn.com/) (NA)||
 
-** Tencent Weibo is a Twitter-style SM in China.
+* Tencent Weibo is a Twitter-style SM in China.
 
 ## Contact
 For questions, please feel free to contact us at <deldjooy@acm.org>.
