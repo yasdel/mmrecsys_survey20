@@ -93,16 +93,15 @@ The table serves as overview and extension of the works discussed in the followi
 |2013|**VideoTopic: Content-Based Video Recommendation Using a Topic Model**| Movie trailer | MTAP | [Link](https://doi.org/10.1109/ISM.2013.41)||IMDB + [YouTube](http://www.youtube.com)||
 
 ### User-generated video
-| Year  | Title       |Target Item  | Venue    |Code | Data|
-|------|-------|----------|--------|-------|-------|
-|2018|**[LGA: latent genre aware micro-video recommendation on social media.](https://doi.org/10.1007/s11042-017-4827-2)**|![elearning-1](https://user-images.githubusercontent.com/12104758/83068526-c461ad00-a068-11ea-8766-1e4ed5235f4f.png)|MTAP|[Twitter Streaming API](https://dev.twitter.com/streaming/overview)||
-|2015|**[Mining Affective Context in Short Films for Emotion-Aware Recommendation.](https://doi.org/10.1145/2700171.2791042)**|![elearning-1](https://user-images.githubusercontent.com/12104758/83068526-c461ad00-a068-11ea-8766-1e4ed5235f4f.png)|HT||(Av. upon Req.)||
-|2014|**[What videos are similar with you?: Learning a common attributed representation for video recommendation](https://doi.org/10.1145/2647868.2654946)**|![elearning-1](https://user-images.githubusercontent.com/12104758/83068526-c461ad00-a068-11ea-8766-1e4ed5235f4f.png)|ACM MM|[Tencent Weibo](http://t.qq.com/)||
-|2013|**[Personalized video recommendation based on cross-platform user modeling.](https://doi.org/10.1109/ICME.2013.6607513)**|![elearning-1](https://user-images.githubusercontent.com/12104758/83068526-c461ad00-a068-11ea-8766-1e4ed5235f4f.png)| ICME ||[Google+/YouTube](https://www.youtube.com)||
-|2012|**[On video recommendation over social network.](https://doi.org/10.1007/978-3-642-27355-1_16)**|![elearning-1](https://user-images.githubusercontent.com/12104758/83068526-c461ad00-a068-11ea-8766-1e4ed5235f4f.png)|MMM ||[Facebook](www.facebook.com)||
-|2012|**[Personalized video recommendation based on viewing history with the study on youtube.](https://doi.org/10.1145/2382336.2382382)**|![elearning-1](https://user-images.githubusercontent.com/12104758/83068526-c461ad00-a068-11ea-8766-1e4ed5235f4f.png)|ICIMCS ||[YouTube](https://www.youtube.com)||
-|2011|**[Contextual video recommendation by multimodal relevance and user feedback.](https://doi.org/10.1145/1961209.1961213)**|![elearning-1](https://user-images.githubusercontent.com/12104758/83068526-c461ad00-a068-11ea-8766-1e4ed5235f4f.png)|ACM TOIS ||[MSN Video](https://www.msn.com/en-us/Video/?mkt=en-us&tab=soapbox/)||
-|2007|**[Online video recommendation based on multimodal fusion and relevance feedback.](https://dl.acm.org/doi/10.1145/1282280.1282290)**|![elearning-1](https://user-images.githubusercontent.com/12104758/83068526-c461ad00-a068-11ea-8766-1e4ed5235f4f.png)|CIVR|--|[MSN Soapbox](http://soapbox.msn.com/) (NA)||
+| Year  | Authors |Title       |Target Item  | Venue    |Code | Data|
+|------|-------|-------|----------|--------|-------|-------|
+|2018|Ma et al.|**[LGA: latent genre aware micro-video recommendation on social media.](https://doi.org/10.1007/s11042-017-4827-2)**|![elearning-1](https://user-images.githubusercontent.com/12104758/83068526-c461ad00-a068-11ea-8766-1e4ed5235f4f.png)|MTAP|[Twitter Streaming API](https://dev.twitter.com/streaming/overview)||
+|2014|Cui et al.|**[What videos are similar with you?: Learning a common attributed representation for video recommendation](https://doi.org/10.1145/2647868.2654946)**|![elearning-1](https://user-images.githubusercontent.com/12104758/83068526-c461ad00-a068-11ea-8766-1e4ed5235f4f.png)|ACM MM|[Tencent Weibo](http://t.qq.com/)||
+|2013|Deng et al.|**[Personalized video recommendation based on cross-platform user modeling.](https://doi.org/10.1109/ICME.2013.6607513)**|![elearning-1](https://user-images.githubusercontent.com/12104758/83068526-c461ad00-a068-11ea-8766-1e4ed5235f4f.png)| ICME ||[Google+/YouTube](https://www.youtube.com)||
+|2012|Zhao et al.|**[On video recommendation over social network.](https://doi.org/10.1007/978-3-642-27355-1_16)**|![elearning-1](https://user-images.githubusercontent.com/12104758/83068526-c461ad00-a068-11ea-8766-1e4ed5235f4f.png)|MMM ||[Facebook](www.facebook.com)||
+|2012|Zhao et al.|**[Personalized video recommendation based on viewing history with the study on youtube.](https://doi.org/10.1145/2382336.2382382)**|![elearning-1](https://user-images.githubusercontent.com/12104758/83068526-c461ad00-a068-11ea-8766-1e4ed5235f4f.png)|ICIMCS ||[YouTube](https://www.youtube.com)||
+|2011|Mei et al.|**[Contextual video recommendation by multimodal relevance and user feedback.](https://doi.org/10.1145/1961209.1961213)**|![elearning-1](https://user-images.githubusercontent.com/12104758/83068526-c461ad00-a068-11ea-8766-1e4ed5235f4f.png)|ACM TOIS ||[MSN Video](https://www.msn.com/en-us/Video/?mkt=en-us&tab=soapbox/)||
+|2007|Yang et al.|**[Online video recommendation based on multimodal fusion and relevance feedback.](https://dl.acm.org/doi/10.1145/1282280.1282290)**|![elearning-1](https://user-images.githubusercontent.com/12104758/83068526-c461ad00-a068-11ea-8766-1e4ed5235f4f.png)|CIVR|--|[MSN Soapbox](http://soapbox.msn.com/) (NA)||
 
 
 ## Contact
