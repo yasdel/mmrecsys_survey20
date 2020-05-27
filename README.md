@@ -93,7 +93,7 @@ The table serves as overview and extension of the works discussed in the followi
 |2013|**VideoTopic: Content-Based Video Recommendation Using a Topic Model**| Movie trailer | MTAP | [Link](https://doi.org/10.1109/ISM.2013.41)||IMDB + [YouTube](http://www.youtube.com)||
 
 ### User-generated video
-| Year  | Authors |Title       |Target Item  | Venue    |Code | Data|
+| Year  | Authors |Title       |Target Item  | Venue    |Code |Data/Resources|
 |------|-------|-------|----------|--------|-------|-------|
 |2018|Ma et al.|**[LGA: latent genre aware micro-video recommendation on social media.](https://doi.org/10.1007/s11042-017-4827-2)**|![elearning-1](https://user-images.githubusercontent.com/12104758/83068526-c461ad00-a068-11ea-8766-1e4ed5235f4f.png)|MTAP|--|[Twitter Streaming API](https://dev.twitter.com/streaming/overview)||
 |2014|Cui et al.|**[What videos are similar with you?: Learning a common attributed representation for video recommendation](https://doi.org/10.1145/2647868.2654946)**|![elearning-1](https://user-images.githubusercontent.com/12104758/83068526-c461ad00-a068-11ea-8766-1e4ed5235f4f.png)|ACM MM|--|[Tencent Weibo](http://t.qq.com/)||
