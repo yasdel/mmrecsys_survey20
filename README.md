@@ -102,7 +102,7 @@ The table serves as overview and extension of the works discussed in the followi
 |2012|**On video recommendation over social network.**| UG-Video |MMM | [Link](https://doi.org/10.1007/978-3-642-27355-1_16)||[Facebook](www.facebook.com)||
 |2012|**Personalized video recommendation based on viewing history with the study on youtube**| UG-Video |ICIMCS | [Link](https://doi.org/10.1145/2382336.2382382)| |[YouTube](https://www.youtube.com)||
 |2011|**Contextual video recommendation by multimodal relevance and user feedback**| UG-Video |ACM TOIS | [Link](https://doi.org/10.1145/1961209.1961213)| |[MSN Video](https://www.msn.com/en-us/Video/?mkt=en-us&tab=soapbox/)||
-|2007|**Online video recommendation based on multimodal fusion and relevance feedback**| UG-Video |CIVR | [Link](https://dl.acm.org/doi/10.1145/1282280.1282290)| |[MSN Soapbox](http://soapbox.msn.com/)||
+|2007|**Online video recommendation based on multimodal fusion and relevance feedback**|![elearning](https://user-images.githubusercontent.com/12104758/83067949-c8d99600-a067-11ea-82b7-851b1130135b.png)|CIVR|[Link](https://dl.acm.org/doi/10.1145/1282280.1282290)|--|[MSN Soapbox](http://soapbox.msn.com/)||
 
 
 ## Contact
