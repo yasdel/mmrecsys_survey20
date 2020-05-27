@@ -95,13 +95,13 @@ The table serves as overview and extension of the works discussed in the followi
 ### User-generated video
 | Year  | Title       |Target Item  | Venue    | Link        |Code | Data|
 |------|-------|----------|-----------|---------------|-------|-------|
-|2018|**LGA: latent genre aware micro-video recommendation on social media**| UG-Video | MTAP | [Link](https://doi.org/10.1007/s11042-017-4827-2)||[Twitter Streaming API](https://dev.twitter.com/streaming/overview)||
-|2015|**Mining Affective Context in Short Films for Emotion-Aware Recommendation**| UG-Video | HT | [Link](https://doi.org/10.1145/2700171.2791042)||(Av. upon Req.)||
-|2014|**What videos are similar with you?: Learning a common attributed representation for video recommendation**| UG-Video | ACM MM | [Link](https://doi.org/10.1145/2647868.2654946)||[Tencent Weibo](http://t.qq.com/)||
-|2013|**Personalized video recommendation based on cross-platform user modeling.**| UG-Video | ICME | [Link](https://doi.org/10.1109/ICME.2013.6607513)||[Google+/YouTube](https://www.youtube.com)||
-|2012|**On video recommendation over social network.**| UG-Video |MMM | [Link](https://doi.org/10.1007/978-3-642-27355-1_16)||[Facebook](www.facebook.com)||
-|2012|**Personalized video recommendation based on viewing history with the study on youtube**| UG-Video |ICIMCS | [Link](https://doi.org/10.1145/2382336.2382382)| |[YouTube](https://www.youtube.com)||
-|2011|**Contextual video recommendation by multimodal relevance and user feedback**| UG-Video |ACM TOIS | [Link](https://doi.org/10.1145/1961209.1961213)| |[MSN Video](https://www.msn.com/en-us/Video/?mkt=en-us&tab=soapbox/)||
+|2018|**LGA: latent genre aware micro-video recommendation on social media**|![elearning](https://user-images.githubusercontent.com/12104758/83067949-c8d99600-a067-11ea-82b7-851b1130135b.png)| MTAP | [Link](https://doi.org/10.1007/s11042-017-4827-2)||[Twitter Streaming API](https://dev.twitter.com/streaming/overview)||
+|2015|**Mining Affective Context in Short Films for Emotion-Aware Recommendation**|![elearning](https://user-images.githubusercontent.com/12104758/83067949-c8d99600-a067-11ea-82b7-851b1130135b.png)| HT | [Link](https://doi.org/10.1145/2700171.2791042)||(Av. upon Req.)||
+|2014|**What videos are similar with you?: Learning a common attributed representation for video recommendation**|![elearning](https://user-images.githubusercontent.com/12104758/83067949-c8d99600-a067-11ea-82b7-851b1130135b.png)| ACM MM | [Link](https://doi.org/10.1145/2647868.2654946)||[Tencent Weibo](http://t.qq.com/)||
+|2013|**Personalized video recommendation based on cross-platform user modeling.**|![elearning](https://user-images.githubusercontent.com/12104758/83067949-c8d99600-a067-11ea-82b7-851b1130135b.png)| ICME | [Link](https://doi.org/10.1109/ICME.2013.6607513)||[Google+/YouTube](https://www.youtube.com)||
+|2012|**On video recommendation over social network.**|![elearning](https://user-images.githubusercontent.com/12104758/83067949-c8d99600-a067-11ea-82b7-851b1130135b.png)|MMM | [Link](https://doi.org/10.1007/978-3-642-27355-1_16)||[Facebook](www.facebook.com)||
+|2012|**Personalized video recommendation based on viewing history with the study on youtube**|![elearning](https://user-images.githubusercontent.com/12104758/83067949-c8d99600-a067-11ea-82b7-851b1130135b.png)|ICIMCS | [Link](https://doi.org/10.1145/2382336.2382382)| |[YouTube](https://www.youtube.com)||
+|2011|**Contextual video recommendation by multimodal relevance and user feedback**|![elearning](https://user-images.githubusercontent.com/12104758/83067949-c8d99600-a067-11ea-82b7-851b1130135b.png)|ACM TOIS | [Link](https://doi.org/10.1145/1961209.1961213)| |[MSN Video](https://www.msn.com/en-us/Video/?mkt=en-us&tab=soapbox/)||
 |2007|**Online video recommendation based on multimodal fusion and relevance feedback**|![elearning](https://user-images.githubusercontent.com/12104758/83067949-c8d99600-a067-11ea-82b7-851b1130135b.png)|CIVR|[Link](https://dl.acm.org/doi/10.1145/1282280.1282290)|--|[MSN Soapbox](http://soapbox.msn.com/)||
 
 
