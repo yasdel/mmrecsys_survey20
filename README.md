@@ -90,7 +90,7 @@ The table serves as overview and extension of the works discussed in the followi
 |2016|**[Latent factor representations for cold-start video recommendation.](https://doi.org/10.1145/2959100.2959172)**|![cinema](https://user-images.githubusercontent.com/12104758/83256822-6f7e7d80-a1b3-11ea-88ac-425c0be14070.png)|RecSys ||1:Video Emotion DS (Av. upon Req.)<br> [2: Amazon Product](https://nijianmo.github.io/amazon/index.html)|
 |2016|**[Content-based video recommendation system based on stylistic visual features.](https://doi.org/10.1007/s13740-016-0060-9)**|![cinema](https://user-images.githubusercontent.com/12104758/83256822-6f7e7d80-a1b3-11ea-88ac-425c0be14070.png)| JoDS| | ||
 |2013|**[Affective recommendation of movies based on selected connotative features.](https://doi.org/10.1109/TCSVT.2012.2211935)**|![cinema](https://user-images.githubusercontent.com/12104758/83256822-6f7e7d80-a1b3-11ea-88ac-425c0be14070.png)| RecSys | |[Gratest film scenes](https://www.filmsite.org/scenes.html)|
-|2013|**[VideoTopic: Content-Based Video Recommendation Using a Topic Model.](https://doi.org/10.1109/ISM.2013.41))**|![cinema](https://user-images.githubusercontent.com/12104758/83256822-6f7e7d80-a1b3-11ea-88ac-425c0be14070.png)| MTAP ||IMDB + [YouTube](http://www.youtube.com)||
+|2013|**[VideoTopic: Content-Based Video Recommendation Using a Topic Model.](https://doi.org/10.1109/ISM.2013.41)**|![cinema](https://user-images.githubusercontent.com/12104758/83256822-6f7e7d80-a1b3-11ea-88ac-425c0be14070.png)| MTAP ||IMDB + [YouTube](http://www.youtube.com)||
 
 ### User-generated video
 | Year  | Authors |Title       |Target Item  | Venue    |Code |Data/Resources|
