@@ -88,9 +88,10 @@ The table serves as overview and extension of the works discussed in the followi
 |2018|**[Using Visual Features based on MPEG-7 and Deep Learning for Movie Recommendation.](https://doi.org/10.1007/s13735-018-0155-1)**| Movie trailer | IJMIR| |[Mise-en-Scène DS: MPEG-7 + CNN](https://www.researchgate.net/publication/317038064_Mise-en-Scene_Dataset_MPEG-7_Visual_Features_of_Movie_Trailers_dataset)||
 |2018|**[Audio-visual encoding of multimedia content for enhancing movie recommendations.](https://doi.org/10.1145/3240323.3240407)**|Movie trailer | RecSys ||[MMTF-14K](https://mmprj.github.io/mtrm_dataset/index)||
 |2016|**[Latent factor representations for cold-start video recommendation.](https://doi.org/10.1145/2959100.2959172)**|Movie trailer | RecSys ||1:Video Emotion DS (Av. upon Req.)<br> [2: Amazon Product](https://nijianmo.github.io/amazon/index.html)|
-|2016|**[Content-based video recommendation system based on stylistic visual features.](https://doi.org/10.1007/s13740-016-0060-9)**| Movie trailer | JoDS| | ||
-|2013|**[Affective recommendation of movies based on selected connotative features.](https://doi.org/10.1109/TCSVT.2012.2211935)**|Movie Scenes| RecSys | |[Gratest film scenes](https://www.filmsite.org/scenes.html)|
-|2013|**[VideoTopic: Content-Based Video Recommendation Using a Topic Model.](https://doi.org/10.1109/ISM.2013.41))**| Movie trailer | MTAP ||IMDB + [YouTube](http://www.youtube.com)||
+|2016|**[Content-based video recommendation system based on stylistic visual features.](https://doi.org/10.1007/s13740-016-0060-9)**|![movie](https://user-images.githubusercontent.com/12104758/83256683-23cbd400-a1b3-11ea-8f46-fe334ebcbf91.png)| JoDS| | ||
+|2013|**[Affective recommendation of movies based on selected connotative features.](https://doi.org/10.1109/TCSVT.2012.2211935)**|![movie](https://user-images.githubusercontent.com/12104758/83256683-23cbd400-a1b3-11ea-8f46-fe334ebcbf91.png)| RecSys | |[Gratest film scenes](https://www.filmsite.org/scenes.html)|
+|2013|**[VideoTopic: Content-Based Video Recommendation Using a Topic Model.](https://doi.org/10.1109/ISM.2013.41))**|![movie](https://user-images.githubusercontent.com/12104758/83256683-23cbd400-a1b3-11ea-8f46-fe334ebcbf91.png)
+| MTAP ||IMDB + [YouTube](http://www.youtube.com)||
 
 ### User-generated video
 | Year  | Authors |Title       |Target Item  | Venue    |Code |Data/Resources|
