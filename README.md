@@ -59,10 +59,10 @@ The table serves as overview and extension of the works discussed in the followi
 |2017|Peska et al.|**Towards Recommender Systems for Police Photo Lineup.**|DLRS*|![people](https://user-images.githubusercontent.com/12104758/82477123-48e38700-9acf-11ea-9346-cf98c1508abf.png)|[Link](https://dl.acm.org/doi/10.1145/3125486.3125490)|[Link](http://github.com/lpeska/lineups)|[Data](https://tinyurl.com/yat3rtr2)||
 
 ### target: product (leveraging visual content of the associated images) 
-| Year  | Title       |Target Item  | Venue    | Link        |Code | Data|
-|------|-------|----------|-----------|---------------|-------|-------|
-|2015|**[Image-based recommendations on styles and substitutes.](https://dl.acm.org/doi/10.1145/2766462.2767755)**|SIGIR|Fashion|[Link]()|[Code](https://cseweb.ucsd.edu/~jmcauley/code/imageGraph.tar.gz)|[AmazonDS](https://nijianmo.github.io/amazon/index.html)||
-|2016|**[Ups and downs: Modeling the visual evolution of fashion trends with one-class collaborative filtering.](https://dl.acm.org/doi/10.1145/2872427.2883037)**|WWW|Fashion|[Link]()||(Instagram) <br> [ImageNet](http://www.image-net.org/)||
+| Year  |  Authors  |  Title       |Target Item  | Venue    |Code | Data|
+|------|-------|----------|------------|-------|-------|-------|
+|2015|McAuley et al.|**[Image-based recommendations on styles and substitutes.](https://dl.acm.org/doi/10.1145/2766462.2767755)**|SIGIR|Fashion|[Code](https://cseweb.ucsd.edu/~jmcauley/code/imageGraph.tar.gz)|[AmazonDS](https://nijianmo.github.io/amazon/index.html)||
+|2016|He et al.|**[Ups and downs: Modeling the visual evolution of fashion trends with one-class collaborative filtering.](https://dl.acm.org/doi/10.1145/2872427.2883037)**|WWW|Fashion|[Code](https://drive.google.com/file/d/0B9Ck8jw-TZUENk14WWFvVUc4UXc/view)|(AmazonDS)[http://jmcauley.ucsd.edu/data/amazon/]||
 |2018|**[Aesthetic-based clothing recommendation.](https://dl.acm.org/doi/abs/10.1145/3178876.3186146)**|WWW|Fashion|[Link]()||(Instagram) <br> [ImageNet](http://www.image-net.org/)||
 |2018|**[Personalized clothing recommendation combining user social circle and fashion style consistency.](https://link.springer.com/article/10.1007/s11042-017-5245-1)**|MTAP|Fashion|[Link]()||(Instagram) <br> [ImageNet](http://www.image-net.org/)||
 |2016|**[UbiShop: Commercial item recommendation using visual part-based object representation.](https://link.springer.com/article/10.1007/s11042-015-2916-7)**|MTAP|Fashion|[Link]()||(Instagram) <br> [ImageNet](http://www.image-net.org/)||
