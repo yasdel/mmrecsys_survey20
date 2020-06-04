@@ -59,7 +59,7 @@ The table serves as overview and extension of the works discussed in the followi
 |2017|Peska et al.|**Towards Recommender Systems for Police Photo Lineup.**|DLRS*|![people](https://user-images.githubusercontent.com/12104758/82477123-48e38700-9acf-11ea-9346-cf98c1508abf.png)|[Link](https://dl.acm.org/doi/10.1145/3125486.3125490)|[Link](http://github.com/lpeska/lineups)|[Data](https://tinyurl.com/yat3rtr2)||
 
 ### target: product (leveraging visual content of the associated images) 
-| Year  |  Authors  |  Title       |Venue | Target Item    |Code | Data|
+| Year  |  Authors  |  Title    |Venue | Target Item    |Code | Data|
 |------|-------|----------|------------|-------|-------|----------|
 |2015|McAuley et al.|**[Image-based recommendations on styles and substitutes.](https://dl.acm.org/doi/10.1145/2766462.2767755)**|![outfit (1)](https://user-images.githubusercontent.com/12104758/83677770-ed3ff000-a5dc-11ea-8ea1-fe50cf19e25c.png)|SIGIR|[Code](https://cseweb.ucsd.edu/~jmcauley/code/imageGraph.tar.gz)|[AmazonDS](https://nijianmo.github.io/amazon/index.html)||
 |2016|He et al.|**[Ups and downs: Modeling the visual evolution <br> of fashion trends with one-class collaborative filtering.](https://dl.acm.org/doi/10.1145/2872427.2883037)**|![outfit (1)](https://user-images.githubusercontent.com/12104758/83677770-ed3ff000-a5dc-11ea-8ea1-fe50cf19e25c.png)|WWW|[Code](https://drive.google.com/file/d/0B9Ck8jw-TZUENk14WWFvVUc4UXc/view)|[AmazonDS](http://jmcauley.ucsd.edu/data/amazon/)||
